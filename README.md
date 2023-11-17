@@ -10,4 +10,4 @@ What are the current limits to synthetic image detection? Which properties of a 
 
 In order to answer these questions, we create or source one or more data sets of known synthetic images with a variety of qualities and sourced from a series of platforms. We seek the combination of qualities and environments that make detection straightforward as well as those that make detection particularly fraught. The research output is a combinatorial analysis, which seeks to determine the sets of characteristics overall that enable detection or evasion. 
 
-
+more info: https://docs.google.com/presentation/d/1EIbJd-2K4OjglKcJa2CzgmzVGar_ptUuaGn3g3og0Q8/edit#slide=id.g29c98d01d9a_0_34
